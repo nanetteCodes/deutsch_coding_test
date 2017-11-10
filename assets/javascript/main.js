@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   new WOW().init();
 
-  $("#racer").delay(1000).animate({
+  $("#racer").delay(300).animate({
     left: "+=-30"
   }, 300);
 
