@@ -39,7 +39,7 @@ $(document).ready(function() {
 
   $('#four-countdown')
     .prop('number', 10)
-    .delay(1500)
+    .delay(1300)
     .animateNumber({
       number: 4
       },
